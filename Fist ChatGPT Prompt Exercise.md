@@ -12,3 +12,5 @@ Once you're in the desired directory, type the following command and press Enter
 Replace folder_name with the desired name of your new folder. For example, if you want to create a folder named "new_folder", you would type:
 
 mkdir new_folder
+
+Test
